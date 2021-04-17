@@ -15,7 +15,7 @@ Markdownにはさまざまな流派がありますが、GitHub Flavored Markdown
 執筆にあたって気を付けていただきたいことや記述方法のお願いをまとめます。
 
 * 目次
-  * [記事の大構造](https://gist.github.com/LambdaNote/0d33b7d8284a3c99cffd1a5aa83c115f#記事の大構造) ：見出しの構文、考え方
+  * [記事の大構造](https://github.com/ta96o/Dev_Env/blob/main#記事の大構造) ：見出しの構文、考え方
   * [記事の小構造](https://gist.github.com/LambdaNote/0d33b7d8284a3c99cffd1a5aa83c115f#記事の小構造) ：段落や図表、コードなどの構文、考え方
   * [本文の書き方](https://gist.github.com/LambdaNote/0d33b7d8284a3c99cffd1a5aa83c115f#本文の書き方) ：本文の考え方
   * [書式に関してサポートしないこと](https://gist.github.com/LambdaNote/0d33b7d8284a3c99cffd1a5aa83c115f#書式に関してサポートしないこと) ：スタイルに関する制限と注意事項
